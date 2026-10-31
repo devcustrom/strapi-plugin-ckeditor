@@ -1,6 +1,6 @@
 {
   "name": "@_sh/strapi-plugin-ckeditor",
-  "version": "8.0.0",
+  "version": "8.0.0-stich.1",
   "description": "Integrates CKEditor 5 into your Strapi project as a fully customizable custom field. (Community Edition)",
   "keywords": [
     "strapi",
@@ -17,7 +17,7 @@
   "homepage": "https://community.strapi.io/marketplace/sh-strapi-plugin-ckeditor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nshenderov/strapi-plugin-ckeditor.git"
+    "url": "https://github.com/devcustrom/strapi-plugin-ckeditor.git"
   },
   "strapi": {
     "name": "ckeditor5",
